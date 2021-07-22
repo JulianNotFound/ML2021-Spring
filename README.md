@@ -1,3 +1,6 @@
+欢迎来串门的小伙伴，本仓库主要用于整理备份个人学习李宏毅老师2021年机器学习课程的作业代码。
+
+
 ![banner](https://i.imgur.com/78UhAe2.png)
 <p>
   <h2 align="center">
