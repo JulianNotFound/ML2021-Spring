@@ -1,0 +1,1 @@
+simple baseline仍是直接运行即可通过(public:0.44862, private:0.47220)，个人运行结果public：0.48984，private：0.47878。
